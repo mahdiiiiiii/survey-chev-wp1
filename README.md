@@ -4,10 +4,23 @@
   <meta charset="UTF-8">
   <title>Redirection...</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      color: #444;
+      padding-top: 120px;
+    }
+    p {
+      font-size: 17px;
+      line-height: 1.6;
+    }
+  </style>
 </head>
-<body style="font-family: sans-serif; text-align: center; padding-top: 100px;">
+<body>
 
-  <p>Merci de votre intérêt ! Vous allez être redirigé vers notre questionnaire...</p>
+  <p>Un instant... / Just a moment...</p>
 
   <script>
   !function(f,b,e,v,n,t,s)
