@@ -1,4 +1,3 @@
-# Survey-fl-campaign1
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -20,11 +19,11 @@
   s.parentNode.insertBefore(t,s)}(window, document,'script',
   'https://connect.facebook.net/en_US/fbevents.js');
 
-  fbq('init', 'TON_PIXEL_ID_ICI');
+  fbq('init', '000000000000000');
   fbq('track', 'PageView');
   </script>
   <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=TON_PIXEL_ID_ICI&ev=PageView&noscript=1"
+  src="https://www.facebook.com/tr?id=000000000000000"
   /></noscript>
 
   <script>
