@@ -29,7 +29,7 @@
 
   <script>
     setTimeout(function() {
-      window.location.href = "https://www.surveymonkey.com/r/https://fr.surveymonkey.com/r/GDQTWQZ?";
+      window.location.href = "https://www.surveymonkey.com/r/https://fr.surveymonkey.com/r/GDQTWQZ";
     }, 1000);
   </script>
 
