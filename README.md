@@ -48,7 +48,6 @@ src="https://www.facebook.com/tr?id=2975759032759144&ev=PageView&noscript=1"
 <div class="msg">Please wait a moment..</div>
 
 <script>
-  // Redirection automatique après 2.5 secondes vers le sondage SurveyMonkey
   setTimeout(function () {
     window.location.href = "https://fr.surveymonkey.com/r/GDQTWQZ";
   }, 2500);
